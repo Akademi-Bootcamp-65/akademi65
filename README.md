@@ -12,11 +12,11 @@
 
 |    | Name                  | Role            | Socials   |
 |----|-----------------------|-----------------|-----------|
-| ![Ahmet](AHMET_FOTO_LINK)  | Ahmet Erol      | Product Owner | [LinkedIn](https://www.linkedin.com/in/spedatox/) |
-| ![](AYSU_FOTO_LINK)    | Aysu Karaman    | Scrum Master  | [LinkedIn](https://www.linkedin.com/in/aysu-karaman/) |
-| ![](MERT_FOTO_LINK)    | Mert Yılmaz     | Developer     | [LinkedIn](https://www.linkedin.com/in/mert-yilmaz/) |
-| ![](ELIF_FOTO_LINK)    | Elif Kaya       | Developer     | [LinkedIn](https://www.linkedin.com/in/elif-kaya/) |
-| ![Serkan](SERKAN_FOTO_LINK)| Serkan Tufan    | Developer     | [LinkedIn](https://www.linkedin.com/in/serkan-tufan/) |
+| ![Ahmet](AHMET_FOTO_LINK)  | Ahmet Erol Bayrak     | Scrum Master | [LinkedIn](https://www.linkedin.com/in/spedatox/) |
+| ![](AYSU_FOTO_LINK)    | Berkay Özererdem   | Developer  | [LinkedIn](https://www.linkedin.com/in/aysu-karaman/) |
+| ![](MERT_FOTO_LINK)    | Emine Erbul    | Developer     | [LinkedIn](https://www.linkedin.com/in/mert-yilmaz/) |
+| ![](ELIF_FOTO_LINK)    | Betül Toyoğlu       | Developer     | [LinkedIn](https://www.linkedin.com/in/elif-kaya/) |
+| ![Serkan](SERKAN_FOTO_LINK)| Safiye Yıldız Sıbıç    | Developer     | [LinkedIn](https://www.linkedin.com/in/serkan-tufan/) |
 
 ---
 
