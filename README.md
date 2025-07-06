@@ -10,13 +10,13 @@
 
 ## Takım Üyeleri
 
-|    | Name                  | Role            |
-|----|-----------------------|-----------------|
-| ![Ahmet](AHMET_FOTO_LINK)  | Ahmet Erol Bayrak     | Scrum Master |
-| ![Aysu](AYSU_FOTO_LINK)    | Betül Toyoğlu   | Developer  |
-| ![Mert](MERT_FOTO_LINK)    | Berkay Özerdem  | Developer     |
-| ![Elif](ELIF_FOTO_LINK)    | Safiye Yıldız Sıbıç  | Developer     |
-| ![Serkan](SERKAN_FOTO_LINK)| Emine Erbul   | Developer     |
+|    | Name                  | Role            | Socials   |
+|----|-----------------------|-----------------|-----------|
+| ![Ahmet](AHMET_FOTO_LINK)  | Ahmet Erol      | Product Owner | [LinkedIn](https://www.linkedin.com/in/spedatox/) |
+| ![](AYSU_FOTO_LINK)    | Aysu Karaman    | Scrum Master  | [LinkedIn](https://www.linkedin.com/in/aysu-karaman/) |
+| ![](MERT_FOTO_LINK)    | Mert Yılmaz     | Developer     | [LinkedIn](https://www.linkedin.com/in/mert-yilmaz/) |
+| ![](ELIF_FOTO_LINK)    | Elif Kaya       | Developer     | [LinkedIn](https://www.linkedin.com/in/elif-kaya/) |
+| ![Serkan](SERKAN_FOTO_LINK)| Serkan Tufan    | Developer     | [LinkedIn](https://www.linkedin.com/in/serkan-tufan/) |
 
 ---
 
@@ -62,8 +62,32 @@
 - Görev dağılımı ve teknik mimari planlandı.
 - Kullanıcı persona’ları belirlendi.
 
+### Tahmin Mantığı
+Sprint 1’deki işlerin zorluk derecesine ve tahmini iş yüküne göre story point puanları verilmiştir. Küçük işler 4-6, orta işler 8-10, kapsamlı işler ise 10 puan olarak belirlenmiştir. Toplamda sprint başına 100 puanlık iş hedeflenmiştir.
+
+
 ### Sprint İçinde Tamamlanması Tahmin Edilen Puan:  
 100 Puan
+
+###Sprint 1 Puanları
+| Görev                                      | Puan |
+|---------------------------------------------|------|
+| Proje Vizyonunun Netleştirilmesi            | 6    |
+| Kullanıcı Persona’larının Oluşturulması     | 6    |
+| Teknik Mimari ve Widget Tree Planı          | 10   |
+| Ana User Story’lerin Yazılması              | 10   |
+| Product Backlog’un Oluşturulması            | 6    |
+| Takım İçi Görev Dağılımı                    | 4    |
+| API Akışının Tasarlanması                   | 6    |
+| Teknik Mimari Taslağı ve Widget Tree Çalışma| 6    |
+| UI/UX Tasarımının Yapılması                 | 10   |
+| Sprint Board’un Kurulması ve Ekibe Açılması | 4    |
+| Takım İçi Görev Dağılımı Tablosu            | 4    |
+| Daily Scrum                                 | 4    |
+| Dokümantasyon Şablonlarının Eklenmesi       | 4    |
+| Text-to-Speech mantığıyla geliştirme (rejected)| 10   |
+| **Toplam**                                  | 100  |
+
 
 ### Puan Tamamlama Mantığı  
 Toplam 300 puanlık backlogun ilk sprintte 100 puanlık kısmı, planlama ve hazırlık işlerinden oluştu.
@@ -79,11 +103,11 @@ Sprint 1’in tamamı:
 - Sprint board’un kurulumu
 
 ### Daily Scrum
-- Tüm daily scrum toplantıları Discord üzerinden yapıldı, kararlar grup sohbetinde arşivlendi.
+- Tüm daily scrum toplantıları WhatsApp üzerinden yapıldı, kararlar grup sohbetinde arşivlendi.
 
 ### Sprint Board Update
-- [Sprint 1 Board Screenshot](BOARD_GÖRÜNTÜ_LİNKİNİ_BURAYA_YAPISTIR)
-- Product Backlog ve Sprint 1 kartlarının listesi ektedir.
+- ![image](https://github.com/user-attachments/assets/f9337afd-79be-4feb-a96e-cbd28d45d826)
+
 
 ### Sprint Review
 - Takım hedeflerinin tamamını gerçekleştirdi.
@@ -102,5 +126,4 @@ Sprint 1’in tamamı:
 
 ---
 
-> Ek olarak, ekran görüntüleri ve board’larınızı görsel ya da link olarak eklemeyi unutma!
 
