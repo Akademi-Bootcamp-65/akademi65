@@ -10,13 +10,13 @@
 
 ## Takım Üyeleri
 
-|    | Name                  | Role            | Socials   |
-|----|-----------------------|-----------------|-----------|
-| ![Ahmet](AHMET_FOTO_LINK)  | Ahmet Erol Bayrak     | Scrum Master | [LinkedIn](https://www.linkedin.com/in/spedatox/) |
-| ![](AYSU_FOTO_LINK)    | Berkay Özererdem   | Developer  | [LinkedIn](https://www.linkedin.com/in/aysu-karaman/) |
-| ![](MERT_FOTO_LINK)    | Emine Erbul    | Developer     | [LinkedIn](https://www.linkedin.com/in/mert-yilmaz/) |
-| ![](ELIF_FOTO_LINK)    | Betül Toyoğlu       | Developer     | [LinkedIn](https://www.linkedin.com/in/elif-kaya/) |
-| ![Serkan](SERKAN_FOTO_LINK)| Safiye Yıldız Sıbıç    | Developer     | [LinkedIn](https://www.linkedin.com/in/serkan-tufan/) |
+|    | Name                  | Role            
+|----|-----------------------|-----------------
+| ![Ahmet](AHMET_FOTO_LINK)  | Ahmet Erol Bayrak     | Scrum Master 
+| ![](AYSU_FOTO_LINK)    | Berkay Özererdem   | Developer 
+| ![](MERT_FOTO_LINK)    | Emine Erbul    | Developer    
+| ![](ELIF_FOTO_LINK)    | Betül Toyoğlu       | Developer    
+| ![Serkan](SERKAN_FOTO_LINK)| Safiye Yıldız Sıbıç    | Developer     
 
 ---
 
