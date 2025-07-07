@@ -47,11 +47,6 @@
 
 ---
 
-## Product Backlog
-
-[Miro Backlog Board](MİRO_LİNKİNİ_BURAYA_YAPISTIR)
-
----
 
 # Sprint 1
 
@@ -120,7 +115,9 @@ https://ibb.co/V0XszqJR
 - Takım içi iletişim ve planlama üzerinde çalışılması gerekmekte.
 - Bir sonraki sprintte doğrudan kodlamaya ve modül geliştirmeye geçilecek.
 
+### Ürün durumu
 
+[Pharmatox MVP Blueprint](https://spedatoxstuff.notion.site/Pharmatox-226af35bd24e80c9ad0bfc9f989489fc)
 ---
 
 ## Kullanılan Asset’ler / Kaynaklar
