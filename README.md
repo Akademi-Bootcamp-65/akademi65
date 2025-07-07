@@ -104,6 +104,8 @@ Sprint 1’in tamamı:
 
 ### Daily Scrum
 - Tüm daily scrum toplantıları WhatsApp üzerinden yapıldı, kararlar grup sohbetinde arşivlendi.
+https://ibb.co/rG7gj0kp
+https://ibb.co/V0XszqJR
 
 ### Sprint Board Update
 - ![image](https://github.com/user-attachments/assets/f9337afd-79be-4feb-a96e-cbd28d45d826)
