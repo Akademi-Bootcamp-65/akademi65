@@ -12,11 +12,11 @@
 
 |    | Name                  | Role            
 |----|-----------------------|-----------------
-| ![](AHMET_FOTO_LINK)  | Ahmet Erol Bayrak     | Scrum Master 
-| ![](AYSU_FOTO_LINK)    | Berkay Özererdem   | Developer 
+| ![](AHMET_FOTO_LINK)  | Ahmet Erol Bayrak     | Product Owner 
+| ![](AYSU_FOTO_LINK)    | Safiye Yıldız Sıbıç  | Scrum Master
 | ![](MERT_FOTO_LINK)    | Emine Erbul    | Developer    
 | ![](ELIF_FOTO_LINK)    | Betül Toyoğlu       | Developer    
-| ![](SERKAN_FOTO_LINK)| Safiye Yıldız Sıbıç    | Developer     
+| ![](SERKAN_FOTO_LINK)| Berkay Özerdem     | Developer     
 
 ---
 
