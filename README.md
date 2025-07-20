@@ -196,8 +196,10 @@ Bu sprintte, uygulamanın kullanıcı deneyimi (UI/UX) tasarımının tamamlanma
 
 ---
 
-## ekran görüntüleri
-
+## Ekran görüntüleri
+https://ibb.co/1GvcYRnS
+https://ibb.co/TDkqZhkR
+https://ibb.co/B5ghKLc2
 
 ---
 
