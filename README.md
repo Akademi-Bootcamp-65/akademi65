@@ -182,7 +182,7 @@ Bu sprintte, uygulamanın kullanıcı deneyimi (UI/UX) tasarımının tamamlanma
 | Güçlü Yönler                         | Geliştirilmesi Gerekenler              | Alınan Aksiyonlar                      |
 |--------------------------------------|----------------------------------------|----------------------------------------|
 | Sistem promptu açık, güçlü ve net    | Entegrasyonlar zamanında başlayamadı   | Sprint 3 öncesi teknik ön hazırlık yapılacak |
-| UI tasarımları ekipçe sahiplenildi  | İletişimde eksik bilgi dolaştı (Gemini)| Entegrasyon sorumlulukları netleştirilecek |
+| UI tasarımları ekipçe sahiplenildi  | | Entegrasyon sorumlulukları netleştirilecek |
 
 ---
 
