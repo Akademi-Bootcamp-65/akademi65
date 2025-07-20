@@ -146,8 +146,8 @@ Bu sprintte, uygulamanın kullanıcı deneyimi (UI/UX) tasarımının tamamlanma
 |----------------------------------|-----------|
 | UI/UX Tasarımı (güncel prototip) |  Tamamlandı |
 | Sistem Promptu Tasarımı          |  Tamamlandı |
-| Google Search Entegrasyonu       | ⚠️ Planlandı, kısmen hazırlandı |
-| Gemini Entegrasyonu              | ❌ Henüz yapılmadı |
+| Google Search Entegrasyonu       |  Planlandı, kısmen hazırlandı |
+| Gemini Entegrasyonu              |  Henüz yapılmadı |
 
 ---
 
