@@ -169,6 +169,16 @@ Bu sprintte, uygulamanın kullanıcı deneyimi (UI/UX) tasarımının tamamlanma
 
 ---
 
+## Daily Scrum
+
+- Toplantılar Google Meet / WhatsApp üzerinden devam etti.
+
+- Geliştirilen modüller ve test aşamaları her gün kısa olarak paylaşıldı.
+
+- Gerektiğinde async güncellemeler yazılı şekilde yapıldı.
+
+---
+
 ## Sprint Review
 
 - Tasarımsal kararlar ve sistem promptu başarıyla finalize edildi.
@@ -196,7 +206,8 @@ Bu sprintte, uygulamanın kullanıcı deneyimi (UI/UX) tasarımının tamamlanma
 
 ---
 
-## Ekran görüntüleri
+## Ürün Durumuna Dair Ekran Görüntüleri
+
 https://ibb.co/1GvcYRnS
 https://ibb.co/TDkqZhkR
 https://ibb.co/B5ghKLc2
