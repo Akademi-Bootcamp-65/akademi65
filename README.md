@@ -126,3 +126,81 @@ https://ibb.co/V0XszqJR
 ---
 
 
+
+# Sprint 2 
+
+## Tarih Aralığı
+_7 Temmuz 2025 – 20 Temmuz 2025_
+
+---
+
+## Sprint Hedefi
+
+Bu sprintte, uygulamanın kullanıcı deneyimi (UI/UX) tasarımının tamamlanması, sistem promptunun netleştirilmesi, Gemini entegrasyonu ve Google Search API bağlantısı gibi temel entegrasyonların planlanması hedeflenmiştir.
+
+---
+
+##  Tamamlanan Görevler
+
+| Görev Açıklaması                 | Durum     |
+|----------------------------------|-----------|
+| UI/UX Tasarımı (güncel prototip) |  Tamamlandı |
+| Sistem Promptu Tasarımı          |  Tamamlandı |
+| Google Search Entegrasyonu       | ⚠️ Planlandı, kısmen hazırlandı |
+| Gemini Entegrasyonu              | ❌ Henüz yapılmadı |
+
+---
+
+## Açıklamalar
+
+- UI/UX tasarımı, kullanıcı yolculuğu baz alınarak revize edildi ve en güncel hali uygulamaya aktarıldı.
+- Sistem promptu tamamlandı. AI tabanlı ilaç tanıma, yan etki açıklama ve öneri mekanizmasının temelini oluşturacak şekilde hazırlandı.
+- Uygulamanın son sürümü gözden geçirildi: İlaç takibi, etkileşimler ve yan etkiler bölümleri temel işlevlere sahip, ancak 3. sprintte detaylandırılacak alanlar tespit edildi.
+- Google Search API entegrasyonu için yapı hazırlandı, test süreci başlatılmadı.
+- Gemini entegrasyonu henüz yapılmadı Sprint 3'e ertelenecek.
+
+---
+
+## Test ve Değerlendirme
+
+- Uygulamanın son build'i gözlemlendi.
+- Kullanıcı deneyimi açısından ilaç etkileşimleri ve yan etkiler ekranlarında eksikler not alındı.
+- AI modülünün vereceği yanıtların sisteme etkisi sistem promptu ile sınırlandırıldı ve tanımlandı.
+
+---
+
+## Sprint Review
+
+- Tasarımsal kararlar ve sistem promptu başarıyla finalize edildi.
+- Takımın teknik entegrasyonlar üzerindeki zamanlaması Sprint 3'e daha fazla kaynak ayırmayı gerektirecek şekilde değerlendirildi.
+- Öncelik sıralaması tekrar yapıldı.
+
+---
+
+## Sprint Retrospective
+
+| Güçlü Yönler                         | Geliştirilmesi Gerekenler              | Alınan Aksiyonlar                      |
+|--------------------------------------|----------------------------------------|----------------------------------------|
+| Sistem promptu açık, güçlü ve net    | Entegrasyonlar zamanında başlayamadı   | Sprint 3 öncesi teknik ön hazırlık yapılacak |
+| UI tasarımları ekipçe sahiplenildi  | İletişimde eksik bilgi dolaştı (Gemini)| Entegrasyon sorumlulukları netleştirilecek |
+
+---
+
+## Sprint 3’e Bırakılanlar
+
+- Gemini API entegrasyonu
+- Google Search entegrasyonu testleri
+- İlaç takibi & etkileşim modüllerinin detaylandırılması
+- Yan etki günlüğü analiz modülünün genişletilmesi
+- Yeni özellik önerilerinin değerlendirilmesi
+
+---
+
+## ekran görüntüleri
+
+
+---
+
+## Not
+
+Bu sprint, sistemin temel taşı niteliğinde olan tasarım ve yapay zeka davranışlarının belirlenmesine odaklanmıştır. Geliştirme süreci Sprint 3 ile birlikte daha fonksiyonel modüllere geçecektir.
