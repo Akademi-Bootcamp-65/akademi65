@@ -340,12 +340,6 @@ Bu sprintin amacı, Pharmatox uygulamasının fonksiyonel modüllerinin tamamlan
 - Sağlık profesyonellerine özel bir panel geliştirilebilir.
 
 ---
-## Dosyalar ve Kaynaklar
-
-- [Pharmatox GitHub Repository](https://github.com/Akademi-Bootcamp-65/akademi65)
-- [assets/ Klasörü (Ekran Görüntüleri)](https://github.com/Akademi-Bootcamp-65/akademi65/tree/main/assets)
-
----
 
 ## Kullanılan Teknolojiler
 
