@@ -64,7 +64,7 @@ Sprint 1’deki işlerin zorluk derecesine ve tahmini iş yüküne göre story p
 ### Sprint İçinde Tamamlanması Tahmin Edilen Puan:  
 100 Puan
 
-###Sprint 1 Puanları
+### Sprint 1 Puanları
 | Görev                                      | Puan |
 |---------------------------------------------|------|
 | Proje Vizyonunun Netleştirilmesi            | 6    |
@@ -358,9 +358,7 @@ ClickUp görev panosunun düzenli kullanımı sayesinde takım içi iletişim ve
 ## Kullanılan Teknolojiler
 
 - Flutter
-- Firebase (Authentication, Realtime Database)
 - OpenAI API (Chat + Vision)
-- Gemini Pro Vision API
 - Git & GitHub
 - ClickUp (Sprint & Görev Takibi)
 
