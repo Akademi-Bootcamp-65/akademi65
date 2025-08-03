@@ -283,7 +283,7 @@ Bu sprintin amacı, Pharmatox uygulamasının fonksiyonel modüllerinin tamamlan
 
 ---
 
-## 📸 Uygulamadan Ekran Görüntüleri
+## Uygulamadan Ekran Görüntüleri
 
 - 
 - 
@@ -322,7 +322,7 @@ Bu sprintin amacı, Pharmatox uygulamasının fonksiyonel modüllerinin tamamlan
 
 ---
 
-## 📁 Dosyalar & Kaynaklar
+## Dosyalar & Kaynaklar
 
 - 
 -
