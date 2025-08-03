@@ -270,6 +270,8 @@ Sprint 3 görevleri, ClickUp üzerinde tanımlanarak ekip üyelerine atanmışt�
 
 ClickUp görev panosunun düzenli kullanımı sayesinde takım içi iletişim ve iş bölümü netleşmiş, proje ilerleyişi kolaylıkla takip edilebilmiştir.
 
+![Sprint Board](./assets/clickup.jpg)
+
 ---
 
 ## Sprint Review
