@@ -344,11 +344,10 @@ Bu sprintin amacı, Pharmatox uygulamasının fonksiyonel modüllerinin tamamlan
 
 - [Pharmatox GitHub Repository](https://github.com/Akademi-Bootcamp-65/akademi65)
 - [assets/ Klasörü (Ekran Görüntüleri)](https://github.com/Akademi-Bootcamp-65/akademi65/tree/main/assets)
-- [Sistem Akış Diyagramı](https://github.com/Akademi-Bootcamp-65/akademi65/blob/main/docs/system-flow.png)
 
 ---
 
-### 🛠Kullanılan Teknolojiler
+## Kullanılan Teknolojiler
 
 - Flutter
 - Firebase (Authentication, Realtime Database)
@@ -356,12 +355,4 @@ Bu sprintin amacı, Pharmatox uygulamasının fonksiyonel modüllerinin tamamlan
 - Gemini Pro Vision API
 - Git & GitHub
 - ClickUp (Sprint & Görev Takibi)
-
-
-- 
--
--
--
-- 
-
 ---
