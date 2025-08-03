@@ -8,7 +8,7 @@ import 'dart:convert';
 class OpenAIService {
   static const String _baseUrl = 'https://api.openai.com/v1';
   // TEMPORARY: Direct API key for testing
-  static const String _apiKey = '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';
+  static const String _apiKey = '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';
   
   final Dio _dio = Dio();
 
