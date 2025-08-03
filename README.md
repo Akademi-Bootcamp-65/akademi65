@@ -340,8 +340,24 @@ Bu sprintin amacı, Pharmatox uygulamasının fonksiyonel modüllerinin tamamlan
 - Sağlık profesyonellerine özel bir panel geliştirilebilir.
 
 ---
+## Dosyalar ve Kaynaklar
 
-## Dosyalar & Kaynaklar
+- [Pharmatox GitHub Repository](https://github.com/Akademi-Bootcamp-65/akademi65)
+- [assets/ Klasörü (Ekran Görüntüleri)](https://github.com/Akademi-Bootcamp-65/akademi65/tree/main/assets)
+- [KVKK Metni](https://github.com/Akademi-Bootcamp-65/akademi65/blob/main/docs/kvkk.md)
+- [Sistem Akış Diyagramı](https://github.com/Akademi-Bootcamp-65/akademi65/blob/main/docs/system-flow.png)
+
+---
+
+### 🛠Kullanılan Teknolojiler
+
+- Flutter
+- Firebase (Authentication, Realtime Database)
+- OpenAI API (Chat + Vision)
+- Gemini Pro Vision API
+- Git & GitHub
+- ClickUp (Sprint & Görev Takibi)
+
 
 - 
 -
