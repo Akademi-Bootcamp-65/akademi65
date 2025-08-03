@@ -283,29 +283,35 @@ Bu sprintin amacı, Pharmatox uygulamasının fonksiyonel modüllerinin tamamlan
 
 ---
 
-## Uygulamadan Ekran Görüntüleri
+## Uygulama Arayüzü - Ekran Örnekleri
 
 ### Ana Sayfa Görseli
 ![Ana Sayfa](./assets/Ana_Sayfa.jpg)
 
+
 ### Profil Sayfası Görseli
 ![Profil](./assets/Profil.jpg)
+
 
 ### Takvim Görseli
 ![Takvim](./assets/Takvim.jpg)
 
+
 ### Yan Etki Analizi
 ![Yan Etki Analizi](./assets/Yan_Etki_Analizi.jpg)
+
 
 ### Pharmatox Asistanı ile Sohbet
 ![İlaç Danışmanlığı](./assets/İlaç_Danışmanlığı.jpg)
 
+
 ### Yapay Zeka Destekli İlaç Etkileşim Analizi
 ![AI İlaç Etkileşim Analizi](./assets/AI_İlaç_Etkileşim_Analizi.jpg)
 
+
 ---
 
-## Öğrenilen Dersler
+## Çıkarımlar
 
 - Görev paylaşımı sprint başında net yapılmazsa hız kaybı yaşanıyor.
 - AI modülleri sınırlı veriyle çalıştığı için sistem promptu kritik rol oynuyor.
