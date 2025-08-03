@@ -297,6 +297,8 @@ ClickUp görev panosunun düzenli kullanımı sayesinde takım içi iletişim ve
 
 ---
 
+## NOT: Build testi için PHARMATOX WINDOWS kısayolunu çalıştırın
+
 ## Uygulama Arayüzü - Ekran Örnekleri
 
 ### Ana Sayfa Görseli
