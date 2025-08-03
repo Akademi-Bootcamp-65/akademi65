@@ -178,13 +178,7 @@ Bu sprintte, uygulamanın kullanıcı deneyimi (UI/UX) tasarımının tamamlanma
 - Gerektiğinde async güncellemeler yazılı şekilde yapıldı.
 
 ---
-### Sprint Board Güncellemesi (ClickUp)
 
-Sprint 3 görevleri, ClickUp üzerinde tanımlanarak ekip üyelerine atanmıştır. Tüm görevler sprint süresi içerisinde zamanında tamamlanmıştır. Görevlerin tanımlanması, takibi ve kontrolü sorunsuz bir şekilde yürütülmüş, bu süreç proje yönetiminde yüksek bir verimlilik sağlamıştır.
-
-ClickUp görev panosunun düzenli kullanımı sayesinde takım içi iletişim ve iş bölümü netleşmiş, proje ilerleyişi kolaylıkla takip edilebilmiştir.
-
----
 ## Sprint Review
 
 - Tasarımsal kararlar ve sistem promptu başarıyla finalize edildi.
@@ -267,6 +261,14 @@ Bu sprintin amacı, Pharmatox uygulamasının fonksiyonel modüllerinin tamamlan
 - Toplantılar Google Meet ve WhatsApp üzerinden hibrit olarak yürütüldü.
 - Async ilerlemeler düzenli olarak yazılı şekilde güncellendi.
 - Sprint ortasında görev paylaşımı eksikliği nedeniyle yeniden yapılandırma yapıldı.
+
+---
+
+### Sprint Board Güncellemesi (ClickUp)
+
+Sprint 3 görevleri, ClickUp üzerinde tanımlanarak ekip üyelerine atanmıştır. Tüm görevler sprint süresi içerisinde zamanında tamamlanmıştır. Görevlerin tanımlanması, takibi ve kontrolü sorunsuz bir şekilde yürütülmüş, bu süreç proje yönetiminde yüksek bir verimlilik sağlamıştır.
+
+ClickUp görev panosunun düzenli kullanımı sayesinde takım içi iletişim ve iş bölümü netleşmiş, proje ilerleyişi kolaylıkla takip edilebilmiştir.
 
 ---
 
