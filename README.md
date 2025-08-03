@@ -297,11 +297,11 @@ Bu sprintin amacı, Pharmatox uygulamasının fonksiyonel modüllerinin tamamlan
 ### Yan Etki Analizi
 ![Yan Etki Analizi](./assets/Yan_Etki_Analizi.jpg)
 
-### Asistan ile Sohbet
+### Pharmatox Asistanı ile Sohbet
 ![İlaç Danışmanlığı](./assets/İlaç_Danışmanlığı.jpg)
 
 ### Yapay Zeka Destekli İlaç Etkileşim Analizi
-![AI İlaç Etkileşim Analizi](./assets/AI_İlaç_Etkileşim_Analizi.jpg)
+![AI İlaç Etkileşim Analizi](./assets/AI İlaç Etkileşim Analizi.jpg)
 
 ---
 
