@@ -130,14 +130,7 @@ https://ibb.co/V0XszqJR
 # Sprint 2 
 
 ## Tarih Aralığı
-<<<<<<< HEAD
 _7 Temmuz 2025 – 20 Temmuz 2025_
-=======
-**7 Temmuz 2025 – 20 Temmuz 2025**
->>>>>>> b246a13423607c2f78759757800ec54edc6a4a1d
-
----
-
 ## Sprint Hedefi
 
 Bu sprintte, uygulamanın kullanıcı deneyimi (UI/UX) tasarımının tamamlanması, sistem promptunun netleştirilmesi, Gemini entegrasyonu ve Google Search API bağlantısı gibi temel entegrasyonların planlanması hedeflenmiştir.
