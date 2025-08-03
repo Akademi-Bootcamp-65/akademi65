@@ -358,3 +358,5 @@ ClickUp görev panosunun düzenli kullanımı sayesinde takım içi iletişim ve
 - Git & GitHub
 - ClickUp (Sprint & Görev Takibi)
 ---
+
+https://app.clickup.com/90181453727/v/b/7-90181453727-2
