@@ -362,3 +362,8 @@ ClickUp görev panosunun düzenli kullanımı sayesinde takım içi iletişim ve
 - Git & GitHub
 - ClickUp (Sprint & Görev Takibi)
 
+
+## Uygulama kurulumu
+- cd (Dosya konumu)
+- flutter run
+
