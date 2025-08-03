@@ -130,7 +130,7 @@ https://ibb.co/V0XszqJR
 # Sprint 2 
 
 ## Tarih Aralığı
-_7 Temmuz 2025 – 20 Temmuz 2025_
+**7 Temmuz 2025 – 20 Temmuz 2025**
 
 ---
 
@@ -285,10 +285,23 @@ Bu sprintin amacı, Pharmatox uygulamasının fonksiyonel modüllerinin tamamlan
 
 ## Uygulamadan Ekran Görüntüleri
 
-- 
-- 
-- 
--
+### Ana Sayfa Görseli
+![Ana Sayfa](./assets/AnaSayfa.jpg)
+
+### Profil Sayfası Görseli
+![Profil](./assets/Profil.jpg)
+
+### Takvim Görseli
+![Takvim](./assets/Takvim.png)
+
+### Yan Etki Analizi
+![Yan Etki Analizi](./assets/yan-etki-analizi.jpg)
+
+### Asistan ile Sohbet
+![İlaç Danışmanlığı](./assets/asistan-sohbet.jpg)
+
+### Yapay Zeka Destekli İlaç Etkileşim Analizi
+![AI İlaç Etkileşim Analizi](./assets/ilac-etkilesim-analizi.jpg)
 
 ---
 
