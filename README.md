@@ -130,7 +130,11 @@ https://ibb.co/V0XszqJR
 # Sprint 2 
 
 ## Tarih Aralığı
+<<<<<<< HEAD
 _7 Temmuz 2025 – 20 Temmuz 2025_
+=======
+**7 Temmuz 2025 – 20 Temmuz 2025**
+>>>>>>> b246a13423607c2f78759757800ec54edc6a4a1d
 
 ---
 
@@ -217,3 +221,146 @@ https://ibb.co/B5ghKLc2
 ## Not
 
 Bu sprint, sistemin temel taşı niteliğinde olan tasarım ve yapay zeka davranışlarının belirlenmesine odaklanmıştır. Geliştirme süreci Sprint 3 ile birlikte daha fonksiyonel modüllere geçecektir.
+
+
+
+# Sprint 3 Final Raporu
+
+## Tarih Aralığı
+**21 Temmuz 2025 – 3 Ağustos 2025**
+
+---
+
+## Sprint 3 Hedefi
+
+Bu sprintin amacı, Pharmatox uygulamasının fonksiyonel modüllerinin tamamlanması, yapay zeka destekli analiz sisteminin entegrasyonu ve ürünün MVP seviyesinde yayına hazır hâle getirilmesidir. Kullanıcı arayüzü, veri güvenliği, görsel tasarım ve etkileşimli AI işlevleri bu sprintte tamamlanmıştır.
+
+---
+
+## Tamamlanan Görevler
+
+| Görev                                                                                         | Durum       |
+|-----------------------------------------------------------------------------------------------|-------------|
+| Kullanıcı profil ekranı geliştirildi, giriş sırasında alınan bilgiler burada gösterilmektedir | Tamamlandı  |
+| “İlaç Ekle” ekranı aktif hale getirildi, manuel ilaç girişleri ile desteklendi                | Tamamlandı  |
+| Veritabanı entegrasyonu gerçekleştirildi, veriler kalıcı olarak saklanmaktadır                | Tamamlandı  |
+| Yapay zeka destekli yan etki analiz modülü entegre edildi                                     | Tamamlandı  |
+| Yan etki günlüğü ekranı, etkileşim tespitini daha islevsel yapabilecek şekilde geliştirildi   | Tamamlandı  |
+| KVKK metni hazırlandı ve kullanıcı onayı için uygulamaya eklendi                              | Tamamlandı  |
+| Tüm görevler ClickUp platformuna tanımlandı ve sprint boyunca takibi sağlandı                 | Tamamlandı  |
+| Profesyonel kurumsal kimlik ve UI dili oluşturuldu                                            | Tamamlandı  |
+
+---
+
+## Yayına Hazırlık & Son Kontroller
+
+- Uygulamanın tüm ana modülleri uçtan uca test edildi.
+- Android cihazlarda başarıyla çalıştığı doğrulandı (iOS testleri sınırlı yapıldı).
+- AI çıktıları gözden geçirildi, sistem promptu üzerinden sınırlayıcı yönergeler güncellendi.
+
+---
+
+## Daily Scrum Özeti
+
+- Toplantılar Google Meet ve WhatsApp üzerinden hibrit olarak yürütüldü.
+- Async ilerlemeler düzenli olarak yazılı şekilde güncellendi.
+- Sprint ortasında görev paylaşımı eksikliği nedeniyle yeniden yapılandırma yapıldı.
+
+---
+
+### Sprint Board Güncellemesi (ClickUp)
+
+Sprint 3 görevleri, ClickUp üzerinde tanımlanarak ekip üyelerine atanmıştır. Tüm görevler sprint süresi içerisinde zamanında tamamlanmıştır. Görevlerin tanımlanması, takibi ve kontrolü sorunsuz bir şekilde yürütülmüş, bu süreç proje yönetiminde yüksek bir verimlilik sağlamıştır.
+
+ClickUp görev panosunun düzenli kullanımı sayesinde takım içi iletişim ve iş bölümü netleşmiş, proje ilerleyişi kolaylıkla takip edilebilmiştir.
+
+![Sprint Board](./assets/clickup.jpg)
+
+---
+
+## Sprint Review
+
+- Pharmatox MVP sürümü başarıyla tamamlandı.
+- Uygulamanın tüm temel fonksiyonları test edildi ve canlıda denenmeye hazır hale getirildi.
+- Takım içi demo yapılarak ürünün tüm özellikleri gösterildi.
+- Öncelik sırasına göre birkaç özellik ileri versiyonlar için ertelendi.
+
+---
+
+## Sprint Retrospective
+
+| Güçlü Yönler                           | Geliştirilmesi Gerekenler                     | Alınan Aksiyonlar                                        |
+|----------------------------------------|------------------------------------------------|----------------------------------------------------------|
+| ClickUp üzerinden görev takibi etkiliydi | Katılım eksikliği sprint başında zorluk yarattı | Sprint başlangıcında rollerin netleştirilmesi şart       |
+| UI/UX sahiplenildi ve kaliteli çıktı ortaya kondu | —                                              | Gelecek projelerde tasarımcı-dev senkronu korunmalı     |
+| AI modülü, yönlendirme ile doğru çıktılar verdi | —                                              | Prompt güncellemeleri dökümante edilip sürdürülecek     |
+
+---
+
+## Uygulama Arayüzü - Ekran Örnekleri
+
+### Ana Sayfa Görseli
+![Ana Sayfa](./assets/Ana_Sayfa.jpg)
+
+
+### Profil Sayfası Görseli
+![Profil](./assets/Profil.jpg)
+
+
+### Takvim Görseli
+![Takvim](./assets/Takvim.jpg)
+
+
+### Yan Etki Analizi
+![Yan Etki Analizi](./assets/Yan_Etki_Analizi.jpg)
+
+
+### Pharmatox Asistanı ile Sohbet
+![İlaç Danışmanlığı](./assets/İlaç_Danışmanlığı.jpg)
+
+
+### Yapay Zeka Destekli İlaç Etkileşim Analizi
+![AI İlaç Etkileşim Analizi](./assets/AI_İlaç_Etkileşim_Analizi.jpg)
+
+
+---
+
+## Çıkarımlar
+
+- Görev paylaşımı sprint başında net yapılmazsa hız kaybı yaşanıyor.
+- AI modülleri sınırlı veriyle çalıştığı için sistem promptu kritik rol oynuyor.
+- UI testleri, gerçek cihazlarla yapıldığında büyük fark yaratıyor.
+- KVKK gibi yasal gerekliliklerin ürün geliştirme sürecine entegrasyonu zaman alıyor ancak kullanıcı güveni için elzem.
+
+---
+
+## Ürün Durumu (MVP)
+
+- Pharmatox MVP, temel kullanıcı ihtiyaçlarını karşılayacak şekilde tamamlandı:
+  - Kişisel profil yönetimi
+  - İlaç ekleme ve doz planı
+  - Yapay zekâ destekli yan etki analizleri
+  - KVKK uyumluluğu
+  - Kurumsal tasarım bütünlüğü
+
+---
+
+## Geleceğe Yönelik Öneriler
+
+- Kullanıcı testleriyle geri bildirim toplanarak ikinci versiyon planlanabilir.
+- Reçete tanıma modülü genişletilebilir.
+- AI yan etki analizine doktor öneri modülü entegre edilebilir.
+- İlaç etkileşimi tespiti için daha büyük veri setleri kullanılmalı.
+- Sağlık profesyonellerine özel bir panel geliştirilebilir.
+
+---
+
+## Kullanılan Teknolojiler
+
+- Flutter
+- Firebase (Authentication, Realtime Database)
+- OpenAI API (Chat + Vision)
+- Gemini Pro Vision API
+- Git & GitHub
+- ClickUp (Sprint & Görev Takibi)
+
