@@ -344,7 +344,6 @@ Bu sprintin amacı, Pharmatox uygulamasının fonksiyonel modüllerinin tamamlan
 
 - [Pharmatox GitHub Repository](https://github.com/Akademi-Bootcamp-65/akademi65)
 - [assets/ Klasörü (Ekran Görüntüleri)](https://github.com/Akademi-Bootcamp-65/akademi65/tree/main/assets)
-- [KVKK Metni](https://github.com/Akademi-Bootcamp-65/akademi65/blob/main/docs/kvkk.md)
 - [Sistem Akış Diyagramı](https://github.com/Akademi-Bootcamp-65/akademi65/blob/main/docs/system-flow.png)
 
 ---
