@@ -286,22 +286,22 @@ Bu sprintin amacı, Pharmatox uygulamasının fonksiyonel modüllerinin tamamlan
 ## Uygulamadan Ekran Görüntüleri
 
 ### Ana Sayfa Görseli
-![Ana Sayfa](./assets/AnaSayfa.jpg)
+![Ana Sayfa](./assets/Ana_Sayfa.jpg)
 
 ### Profil Sayfası Görseli
 ![Profil](./assets/Profil.jpg)
 
 ### Takvim Görseli
-![Takvim](./assets/Takvim.png)
+![Takvim](./assets/Takvim.jpg)
 
 ### Yan Etki Analizi
-![Yan Etki Analizi](./assets/yan-etki-analizi.jpg)
+![Yan Etki Analizi](./assets/Yan_Etki_Analizi.jpg)
 
 ### Asistan ile Sohbet
-![İlaç Danışmanlığı](./assets/asistan-sohbet.jpg)
+![İlaç Danışmanlığı](./assets/İlaç_Danışmanlığı.jpg)
 
 ### Yapay Zeka Destekli İlaç Etkileşim Analizi
-![AI İlaç Etkileşim Analizi](./assets/ilac-etkilesim-analizi.jpg)
+![AI İlaç Etkileşim Analizi](./assets/AI_İlaç_Etkileşim_Analizi.jpg)
 
 ---
 
